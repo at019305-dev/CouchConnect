@@ -1,6 +1,6 @@
 # 🛋️ CouchConnect
 
-A full-stack CouchSurfing-style web application where travelers can find local hosts, send stay requests, chat, and build a community — all in one place.
+> What if travel wasn't about hotels and bookings — but about real connections with real people? CouchConnect is a full-stack web platform that brings that vision to life. Travelers discover local hosts on an interactive map, send stay requests, and chat directly — while locals share their space and culture with the world. From OCR-powered identity verification to a full admin dashboard, every feature was built from scratch to create a safe, social, and seamless experience. Whether you're exploring the code or exploring the world, CouchConnect shows what modern full-stack development looks like in practice.
 
 Built with **Angular 17+**, **Node.js / Express / TypeScript**, and **MongoDB Atlas**.
 
@@ -225,13 +225,6 @@ Frontend runs at → `http://localhost:4200`
 | POST | `/api/verification` | Submit ID verification |
 | GET | `/api/questions` | List Q&A |
 | GET | `/api/admin/stats` | Admin stats |
-
----
-
-## 👥 Contributors
-
-- [pratik00001](https://github.com/pratik00001)
-- [at019305-dev](https://github.com/at019305-dev)
 
 ---
 
